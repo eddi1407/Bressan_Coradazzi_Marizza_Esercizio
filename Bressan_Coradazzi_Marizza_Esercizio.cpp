@@ -1,2 +1,7 @@
 #include <iostream>
-cout << "jcwdjfnwdjfnwjfwefjwf"
+
+using namespace std;
+
+int main(){
+    cout << "ciao" << endl;
+}
